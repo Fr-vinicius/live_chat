@@ -59,5 +59,7 @@ Siga os passos abaixo para configurar o projeto localmente:
 Se você tiver dúvidas ou sugestões, entre em contato:
 
 Autor: Ederson Vinicius
-GitHub: https://github.com/Fr-vinicius
+
+LinkedIn: https://www.linkedin.com/in/ederson-vinicius-ferreira-rosa-b97550239
+
 Email: evfr.trabalho@gmail.com
